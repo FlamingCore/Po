@@ -12,7 +12,11 @@ OR
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FlamingCore/DragonWarriorRobot.git)
 
 ## Credits
+
 • [SkittBot](https://github.com/skittles9823/SkittBot) for stickers module.
+
 • [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot) for evaluator and more.
+
 • MrYacha, Ayra Hikari and Mizukito Akito for Federations.
+
 • 1maverick1 for welcome mutes.
