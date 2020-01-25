@@ -20,16 +20,17 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, my name is {}!
-To add me to your groups, [click here!](http://telegram.me/TheRealPhoenixBot?startgroup=botstart)
+To add me to your groups, [click here!](http://telegram.me/DragonWarriorRobot?startgroup=botstart)
 
 You can find the list of available commands with /help
+
+[Po's Repo](https://github.com/FlamingCore/DragonWarriorRobot)
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-If you have any questions on how to use me, head over to @PhoenixSupport
 
 *Main* commands available:
  - /start: start the bot
