@@ -1,7 +1,7 @@
 # Po
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Po - forked from [Pɧơɛnıх](https://github.com/rsktg/TheRealPhoenixBot) can be found on telegram as [@DragonWarriorRobot](https://t.me/DragonWarriorRobot).
+Po - forked from [Pɧơɛnıх](https://github.com/rsktg/TheRealPhoenixBot), can be found on telegram as [@DragonWarriorRobot](https://t.me/DragonWarriorRobot).
 
 Pɧơɛnıх - Originally, a [Marie](https://github.com/PaulSonOfLars/tgbot) fork, can be found on telegram as [@TheRealPhoenixBot](https://t.me/TheRealPhoenixBot)
 
