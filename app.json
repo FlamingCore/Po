@@ -33,11 +33,11 @@
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "615304572"
+         "value": "565590543"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "TheRealPhoenix"
+         "value": "FlamingCore"
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -82,6 +82,6 @@
       "manager",
       "phoenix"
    ],
-   "name": "Phoenix",
-   "repository": "https://github.com/rsktg/Phoenix"
+   "name": "Po",
+   "repository": "https://github.com/FlamingCore/DragonWarriorRobot"
 }
